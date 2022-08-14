@@ -37,8 +37,8 @@ variable "key_name" {
 }
 
 variable "ubuntu_20_ami_sg" {
-  description = "Ubuntu AMI ID (Singapore)"
-  default = "ami-0d058fe428540cd89"
+  description = "Ubuntu AMI ID (us-east-1)"
+  default = "ami-08d4ac5b634553e16"
 }
 
 
